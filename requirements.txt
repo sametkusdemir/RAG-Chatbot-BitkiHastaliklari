@@ -1,0 +1,7 @@
+google-genai # Gemini API kullanımı için
+langchain # RAG pipeline'ı için ana framework
+langchain-chroma # ChromaDB ile LangChain entegrasyonu için
+langchain-google-genai # Gemini ile LangChain entegrasyonu için
+datasets # Hugging Face veri setini yüklemek için
+pandas # Veri manipulasyonu için (opsiyonel ama faydalı)
+tqdm # İlerleme çubuğu için (opsiyonel)
