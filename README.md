@@ -1,7 +1,7 @@
 # RAG-Chatbot-BitkiHastaliklari
-#  Bitki Hastalıkları Bilgi Sistemi: RAG Destekli Chatbot
+#  🌿 Bitki Hastalıkları Bilgi Sistemi: RAG Destekli Chatbot
 
-##  Projenin Amacı
+## 🎯 Projenin Amacı
 
 [cite_start]Bu proje, Akbank GenAI Bootcamp kapsamında geliştirilmiş, Retrieval Augmented Generation (RAG) temelli bir bilgi sistemidir[cite: 2].
 
